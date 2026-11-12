@@ -1,0 +1,5 @@
+# track only the public files
+*
+!.gitignore
+!report-math-7000.pdf
+!simulation-7000.ipynb
